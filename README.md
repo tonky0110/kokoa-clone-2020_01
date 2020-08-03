@@ -16,3 +16,14 @@ modifier는 block 또는 element의 속성입니다.
 Icon
   HeroIcons
   FontAwesome
+
+
+import styledsheet
+link:css -> Enter
+
+font추가
+1) head > link를 통해서 font추가
+    ex) <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;0,700;1,400&display=swap" rel="stylesheet">
+2) css > import를 통한 추가(추천)
+    ex) @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;0,700;1,400&display=swap');
+
